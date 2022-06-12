@@ -1,0 +1,27 @@
+﻿  STL_Deque.cpp
+C:\Users\Нежнов\source\repos\STL_Deque\STL_Deque\STL_Deque.cpp(185,25): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Deque\STL_Deque\STL_Deque.cpp(186,24): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Deque\STL_Deque\STL_Deque.cpp(187,24): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Deque\STL_Deque\STL_Deque.cpp(188,23): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Deque\STL_Deque\STL_Deque.cpp(189,26): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+  STL_Deque.vcxproj -> C:\Users\Нежнов\source\repos\STL_Deque\Debug\STL_Deque.exe

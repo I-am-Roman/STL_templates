@@ -1,0 +1,32 @@
+﻿  STL_Queue.cpp
+C:\Users\Нежнов\source\repos\STL_Queue\STL_Queue\STL_Queue.cpp(190,19): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Queue\STL_Queue\STL_Queue.cpp(191,19): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Queue\STL_Queue\STL_Queue.cpp(192,20): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Queue\STL_Queue\STL_Queue.cpp(193,19): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Queue\STL_Queue\STL_Queue.cpp(194,20): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Нежнов\source\repos\STL_Queue\STL_Queue\STL_Queue.cpp(195,21): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+  STL_Queue.vcxproj -> C:\Users\Нежнов\source\repos\STL_Queue\Debug\STL_Queue.exe
