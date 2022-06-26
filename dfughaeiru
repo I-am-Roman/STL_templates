@@ -1,0 +1,236 @@
+[1mdiff --git a/1. STL_Vector/.vs/STL_Vector/v16/.suo b/1. STL_Vector/.vs/STL_Vector/v16/.suo[m
+[1mindex 1bfd52e..e6f0ff4 100644[m
+Binary files a/1. STL_Vector/.vs/STL_Vector/v16/.suo and b/1. STL_Vector/.vs/STL_Vector/v16/.suo differ
+[1mdiff --git a/1. STL_Vector/.vs/STL_Vector/v16/Browse.VC.db b/1. STL_Vector/.vs/STL_Vector/v16/Browse.VC.db[m
+[1mindex 31f5d39..e3b9f53 100644[m
+Binary files a/1. STL_Vector/.vs/STL_Vector/v16/Browse.VC.db and b/1. STL_Vector/.vs/STL_Vector/v16/Browse.VC.db differ
+[1mdiff --git a/1. STL_Vector/Debug/STL_Vector.exe b/1. STL_Vector/Debug/STL_Vector.exe[m
+[1mindex 88c96e7..0265fae 100644[m
+Binary files a/1. STL_Vector/Debug/STL_Vector.exe and b/1. STL_Vector/Debug/STL_Vector.exe differ
+[1mdiff --git a/1. STL_Vector/Debug/STL_Vector.pdb b/1. STL_Vector/Debug/STL_Vector.pdb[m
+[1mindex d2acb98..03deecf 100644[m
+Binary files a/1. STL_Vector/Debug/STL_Vector.pdb and b/1. STL_Vector/Debug/STL_Vector.pdb differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.exe.recipe b/1. STL_Vector/STL_Vector/Debug/STL_Vector.exe.recipe[m
+[1mindex 09dab07..c9b7cf0 100644[m
+[1m--- a/1. STL_Vector/STL_Vector/Debug/STL_Vector.exe.recipe[m	
+[1m+++ b/1. STL_Vector/STL_Vector/Debug/STL_Vector.exe.recipe[m	
+[36m@@ -2,7 +2,7 @@[m
+ <Project>[m
+   <ProjectOutputs>[m
+     <ProjectOutput>[m
+[31m-      <FullPath>C:\Users\Нежнов\source\repos\STL_Vector\Debug\STL_Vector.exe</FullPath>[m
+[32m+[m[32m      <FullPath>C:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\4. STL templates\1. STL_Vector\Debug\STL_Vector.exe</FullPath>[m
+     </ProjectOutput>[m
+   </ProjectOutputs>[m
+   <ContentFiles />[m
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.ilk b/1. STL_Vector/STL_Vector/Debug/STL_Vector.ilk[m
+[1mindex 784405c..c50f381 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.ilk and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.ilk differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.log b/1. STL_Vector/STL_Vector/Debug/STL_Vector.log[m
+[1mindex 82bff0f..aa13bed 100644[m
+[1m--- a/1. STL_Vector/STL_Vector/Debug/STL_Vector.log[m	
+[1m+++ b/1. STL_Vector/STL_Vector/Debug/STL_Vector.log[m	
+[36m@@ -1,35 +1,4 @@[m
+ ﻿  STL_Vector.cpp[m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(127,16): warning C4305: =: усечение из "double" в "T"[m
+[31m-          with[m
+[31m-          [[m
+[31m-              T=float[m
+[31m-          ][m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(129,16): warning C4305: =: усечение из "double" в "T"[m
+[31m-          with[m
+[31m-          [[m
+[31m-              T=float[m
+[31m-          ][m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(131,16): warning C4305: =: усечение из "double" в "T"[m
+[31m-          with[m
+[31m-          [[m
+[31m-              T=float[m
+[31m-          ][m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(133,58): warning C4305: инициализация: усечение из "double" в "float"[m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(145,16): warning C4305: =: усечение из "double" в "T"[m
+[31m-          with[m
+[31m-          [[m
+[31m-              T=float[m
+[31m-          ][m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(147,16): warning C4305: =: усечение из "double" в "T"[m
+[31m-          with[m
+[31m-          [[m
+[31m-              T=float[m
+[31m-          ][m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(149,16): warning C4305: =: усечение из "double" в "T"[m
+[31m-          with[m
+[31m-          [[m
+[31m-              T=float[m
+[31m-          ][m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(57): warning C4715: SimpleVector<int>::operator[]: значение возвращается не при всех путях выполнения[m
+[31m-C:\Users\Нежнов\source\repos\STL_Vector\STL_Vector\STL_Vector.cpp(57): warning C4715: SimpleVector<float>::operator[]: значение возвращается не при всех путях выполнения[m
+[31m-  STL_Vector.vcxproj -> C:\Users\Нежнов\source\repos\STL_Vector\Debug\STL_Vector.exe[m
+[32m+[m[32mC:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\4. STL templates\1. STL_Vector\STL_Vector\STL_Vector.cpp(82): warning C4715: SimpleVector<int>::operator[]: значение возвращается не при всех путях выполнения[m
+[32m+[m[32mC:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\4. STL templates\1. STL_Vector\STL_Vector\STL_Vector.cpp(82): warning C4715: SimpleVector<float>::operator[]: значение возвращается не при всех путях выполнения[m
+[32m+[m[32m  STL_Vector.vcxproj -> C:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\4. STL templates\1. STL_Vector\Debug\STL_Vector.exe[m
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.obj b/1. STL_Vector/STL_Vector/Debug/STL_Vector.obj[m
+[1mindex 910543b..e31daef 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.obj and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.obj differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.command.1.tlog b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.command.1.tlog[m
+[1mindex a9cd959..4439471 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.command.1.tlog and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.command.1.tlog differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.read.1.tlog b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.read.1.tlog[m
+[1mindex d58d427..4c29e5a 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.read.1.tlog and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.read.1.tlog differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.write.1.tlog b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.write.1.tlog[m
+[1mindex e630beb..db5d078 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.write.1.tlog and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/CL.write.1.tlog differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/STL_Vector.lastbuildstate b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/STL_Vector.lastbuildstate[m
+[1mindex 148e0ae..be03f01 100644[m
+[1m--- a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/STL_Vector.lastbuildstate[m	
+[1m+++ b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/STL_Vector.lastbuildstate[m	
+[36m@@ -1,2 +1,2 @@[m
+ PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.18362.0:[m
+[31m-Debug|Win32|C:\Users\Нежнов\source\repos\STL_Vector\|[m
+[32m+[m[32mDebug|Win32|C:\Users\Нежнов\Desktop\Passion library 2\5. For Job\6. Course on С++\2. Projects\4. STL templates\1. STL_Vector\|[m
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.command.1.tlog b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.command.1.tlog[m
+[1mindex 202f149..c0794a1 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.command.1.tlog and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.command.1.tlog differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.read.1.tlog b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.read.1.tlog[m
+[1mindex e31e3f8..3482e7b 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.read.1.tlog and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.read.1.tlog differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.write.1.tlog b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.write.1.tlog[m
+[1mindex 89281ed..9f8c108 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.write.1.tlog and b/1. STL_Vector/STL_Vector/Debug/STL_Vector.tlog/link.write.1.tlog differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/vc142.idb b/1. STL_Vector/STL_Vector/Debug/vc142.idb[m
+[1mindex c5f1363..3beafb0 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/vc142.idb and b/1. STL_Vector/STL_Vector/Debug/vc142.idb differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/Debug/vc142.pdb b/1. STL_Vector/STL_Vector/Debug/vc142.pdb[m
+[1mindex b92cff0..776247c 100644[m
+Binary files a/1. STL_Vector/STL_Vector/Debug/vc142.pdb and b/1. STL_Vector/STL_Vector/Debug/vc142.pdb differ
+[1mdiff --git a/1. STL_Vector/STL_Vector/STL_Vector.cpp b/1. STL_Vector/STL_Vector/STL_Vector.cpp[m
+[1mindex 2f7ce26..d9d3ae5 100644[m
+[1m--- a/1. STL_Vector/STL_Vector/STL_Vector.cpp[m	
+[1m+++ b/1. STL_Vector/STL_Vector/STL_Vector.cpp[m	
+[36m@@ -1,4 +1,5 @@[m
+ ﻿#include "test_runner.h"[m
+[32m+[m[32m#include <algorithm>[m
+ using namespace std;[m
+ [m
+ /****************************************************************/[m
+[36m@@ -12,14 +13,19 @@[m [mprivate:[m
+     size_t size;[m
+     size_t capacity;[m
+ public:[m
+[31m-    SimpleVector() = default;[m
+[31m-    explicit SimpleVector(size_t size);[m
+[32m+[m[32m    SimpleVector():size(0),capacity(0) {};[m
+[32m+[m[32m    explicit SimpleVector(size_t size) noexcept;[m
+[32m+[m[32m    //move constructor[m
+[32m+[m[32m    SimpleVector(SimpleVector<T>&& other);[m
+[32m+[m[32m    //copy constructor[m
+[32m+[m[32m    SimpleVector(const SimpleVector<T>& other);[m
+[32m+[m
+     ~SimpleVector();[m
+ [m
+     T& operator[](size_t index);[m
+ [m
+[31m-    T* begin();[m
+[31m-    T* end();[m
+[32m+[m[32m    T* begin() const;[m
+[32m+[m[32m    T* end() const;[m
+ [m
+     size_t Size() const;[m
+     size_t Capacity() const;[m
+[36m@@ -28,10 +34,30 @@[m [mpublic:[m
+ };[m
+ [m
+ template <typename T>[m
+[31m-SimpleVector<T>::SimpleVector(size_t _size) : [m
+[32m+[m[32mSimpleVector<T>::SimpleVector(size_t _size) noexcept:[m[41m [m
+     value(new T[_size]), size(_size), capacity(_size)[m
+ {}[m
+ [m
+[32m+[m[32m//move constructor[m
+[32m+[m[32mtemplate <typename T>[m
+[32m+[m[32mSimpleVector<T>::SimpleVector(SimpleVector<T>&& other):[m
+[32m+[m[32m    value(other.value), size(other.Size()), capacity(other.Capacity())[m
+[32m+[m[32m{[m
+[32m+[m[32m    cout << "Move constructor" << endl;[m
+[32m+[m[32m    other.value = nullptr;[m
+[32m+[m[32m    other.size = 0;[m
+[32m+[m[32m    other.capacity= 0;[m
+[32m+[m[32m}[m
+[32m+[m[32m//copy constructor[m
+[32m+[m[32mtemplate <typename T>[m
+[32m+[m[32mSimpleVector<T>::SimpleVector(const SimpleVector<T>& other):[m
+[32m+[m[32m    value(new T[other.Size()]), size(other.Size()), capacity(other.Capacity())[m
+[32m+[m[32m{[m
+[32m+[m[32m    cout << "Copy constructor" << endl;[m
+[32m+[m[32m    copy(other.begin(), other.end(), begin());[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m
+ template <typename T>[m
+ SimpleVector<T>::~SimpleVector()[m
+ { delete[] value; }[m
+[36m@@ -53,15 +79,14 @@[m [mT& SimpleVector<T>::operator[](size_t index)[m
+     {[m
+         cout << "Exception happens: " << ex.what();[m
+     }[m
+[31m-[m
+ } [m
+ [m
+ template <typename T>[m
+[31m-T* SimpleVector<T>::begin()[m
+[32m+[m[32mT* SimpleVector<T>::begin() const[m
+ { return value; }[m
+ [m
+ template <typename T>[m
+[31m-T* SimpleVector<T>::end()[m
+[32m+[m[32mT* SimpleVector<T>::end() const[m
+ { return value + size; }[m
+ [m
+ template <typename T>[m
+[36m@@ -124,13 +149,13 @@[m [mvoid TestEqual_2()[m
+ {[m
+     const size_t SPECIAL_SIZE = 5;[m
+     SimpleVector<float> sv(5);[m
+[31m-    sv[1] = 1.2;[m
+[31m-    sv[2] = 5.5;[m
+[31m-    sv[3] = 4.4;[m
+[31m-    sv[4] = 3.0;[m
+[31m-    sv[0] = 2.7;[m
+[32m+[m[32m    sv[1] = 1.2f;[m
+[32m+[m[32m    sv[2] = 5.5f;[m
+[32m+[m[32m    sv[3] = 4.4f;[m
+[32m+[m[32m    sv[4] = 3.0f;[m
+[32m+[m[32m    sv[0] = 2.7f;[m
+     //sv[5] = 3; [m
+[31m-    float array[SPECIAL_SIZE] = { 2.7, 1.2, 5.5, 4.4, 3.0};[m
+[32m+[m[32m    float array[SPECIAL_SIZE] = { 2.7f, 1.2f, 5.5f, 4.4f, 3.0f};[m
+ [m
+     for (size_t i = 0; i < SPECIAL_SIZE; ++i)[m
+     {[m
+[36m@@ -142,11 +167,11 @@[m [mvoid TestEqual_3()[m
+ {[m
+     const size_t SPECIAL_SIZE = 5;[m
+     SimpleVector<float> sv(5);[m
+[31m-    sv[1] = 1.2;[m
+[31m-    sv[2] = 5.5;[m
+[31m-    sv[3] = 4.4;[m
+[31m-    sv[4] = 3.0;[m
+[31m-    sv[0] = 2.7;[m
+[32m+[m[32m    sv[1] = 1.2f;[m
+[32m+[m[32m    sv[2] = 5.5f;[m
+[32m+[m[32m    sv[3] = 4.4f;[m
+[32m+[m[32m    sv[4] = 3.0f;[m
+[32m+[m[32m    sv[0] = 2.7f;[m
+     //sv[5] = 3; [m
+     auto it_begin = sv.begin();[m
+     auto it_end = sv.end();[m
+[36m@@ -193,5 +218,7 @@[m [mint main()[m
+    RUN_TEST(tr, TestEqual_2);[m
+    RUN_TEST(tr, TestEqual_3);[m
+    RUN_TEST(tr, TestEqual_4);[m
+[32m+[m
+[32m+[m[32m    system("Pause");[m
+     return 0;[m
+ }[m
+\ No newline at end of file[m
